@@ -1,0 +1,3 @@
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\bin\Debug\WindowsBillsApp.exe.config
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.exe
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.pdb

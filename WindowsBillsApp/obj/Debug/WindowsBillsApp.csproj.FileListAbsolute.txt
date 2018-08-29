@@ -1,0 +1,18 @@
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\bin\Debug\WindowsBillsApp.exe.config
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\bin\Debug\WindowsBillsApp.exe
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\bin\Debug\WindowsBillsApp.pdb
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.csprojResolveAssemblyReference.cache
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.Properties.Resources.resources
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.csproj.GenerateResource.Cache
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.exe
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.pdb
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.StartUp.resources
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.frmCustomer.resources
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.addCustomer.resources
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.frmSubscription.resources
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.addSubscription.resources
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.frmBill.resources
+F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.Authentication.resources
+C:\Khalid\Projects\Projects\1.My Projects\5.Billsapp\WindowsBillsApp\bin\Debug\WindowsBillsApp.exe.config
+C:\Khalid\Projects\Projects\1.My Projects\5.Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.exe
+C:\Khalid\Projects\Projects\1.My Projects\5.Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.pdb

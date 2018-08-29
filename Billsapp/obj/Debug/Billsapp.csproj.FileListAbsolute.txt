@@ -1,0 +1,7 @@
+f:\users\khalid\documents\visual studio 2013\Projects\Billsapp\Billsapp\obj\Debug\Billsapp.csprojResolveAssemblyReference.cache
+f:\users\khalid\documents\visual studio 2013\Projects\Billsapp\Billsapp\bin\Debug\Billsapp.exe
+f:\users\khalid\documents\visual studio 2013\Projects\Billsapp\Billsapp\bin\Debug\Billsapp.pdb
+f:\users\khalid\documents\visual studio 2013\Projects\Billsapp\Billsapp\obj\Debug\Billsapp.exe
+f:\users\khalid\documents\visual studio 2013\Projects\Billsapp\Billsapp\obj\Debug\Billsapp.pdb
+C:\Khalid\Projects\Projects\1.My Projects\5.Billsapp\Billsapp\obj\Debug\Billsapp.exe
+C:\Khalid\Projects\Projects\1.My Projects\5.Billsapp\Billsapp\obj\Debug\Billsapp.pdb
