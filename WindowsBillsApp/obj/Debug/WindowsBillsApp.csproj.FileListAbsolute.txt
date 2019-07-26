@@ -16,3 +16,19 @@ F:\Users\Khalid\Documents\Visual Studio 2013\Projects\Billsapp\WindowsBillsApp\o
 C:\Khalid\Projects\Projects\1.My Projects\5.Billsapp\WindowsBillsApp\bin\Debug\WindowsBillsApp.exe.config
 C:\Khalid\Projects\Projects\1.My Projects\5.Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.exe
 C:\Khalid\Projects\Projects\1.My Projects\5.Billsapp\WindowsBillsApp\obj\Debug\WindowsBillsApp.pdb
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\bin\Debug\WindowsBillsApp.exe.config
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\bin\Debug\WindowsBillsApp.exe
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\bin\Debug\WindowsBillsApp.pdb
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.csprojAssemblyReference.cache
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.addCustomer.resources
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.addSubscription.resources
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.Authentication.resources
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.frmBill.resources
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.frmCustomer.resources
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.StartUp.resources
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.Properties.Resources.resources
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.frmSubscription.resources
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.csproj.GenerateResource.cache
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.csproj.CoreCompileInputs.cache
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.exe
+C:\Users\khalid\source\repos\SaaS_Billing\WindowsBillsApp\obj\Debug\WindowsBillsApp.pdb
